@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: https://thanhnguyen612k5.github.io/BaiTapAEO-AIEO_CoffeeGarden/
